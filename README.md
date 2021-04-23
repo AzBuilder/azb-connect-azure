@@ -31,3 +31,5 @@ Using Service Principal
 ```bash
 docker run -e SP_USER=XXXXX -e SP_PASSWORD=XXXXX -e SP_TENANT=XXXXX azb-connect-azure
 ```
+
+>The azure connection information is store inside /root/.azure
