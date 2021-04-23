@@ -1,5 +1,5 @@
 # azb-connect-azure
-AKS Pod init container that connects to Azure using the POD Identity or Azure Service Principal.
+Docker container that connects to Azure using the POD Identity or Azure Service Principal.
 
 ## Build Docker Image
 
